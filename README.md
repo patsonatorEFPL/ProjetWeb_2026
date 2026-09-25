@@ -2,7 +2,7 @@
 
 Projet de cours.
 
-Auteur : Nanga Ndzengue Patrick Lemmy
+Auteur : LemmyCode
 
 - `api/` : backend NestJS
 - `front/` : frontend Angular
